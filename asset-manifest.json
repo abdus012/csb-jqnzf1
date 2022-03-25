@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://abdus012.github.io/csb-jqnzf1/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://abdus012.github.io/csb-jqnzf1/static/js/main.a0742587.chunk.js",
+    "main.js.map": "https://abdus012.github.io/csb-jqnzf1/static/js/main.a0742587.chunk.js.map",
+    "runtime-main.js": "https://abdus012.github.io/csb-jqnzf1/static/js/runtime-main.c0fe4ff3.js",
+    "runtime-main.js.map": "https://abdus012.github.io/csb-jqnzf1/static/js/runtime-main.c0fe4ff3.js.map",
+    "static/js/2.e6fe7a19.chunk.js": "https://abdus012.github.io/csb-jqnzf1/static/js/2.e6fe7a19.chunk.js",
+    "static/js/2.e6fe7a19.chunk.js.map": "https://abdus012.github.io/csb-jqnzf1/static/js/2.e6fe7a19.chunk.js.map",
+    "index.html": "https://abdus012.github.io/csb-jqnzf1/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://abdus012.github.io/csb-jqnzf1/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.e6fe7a19.chunk.js.LICENSE.txt": "https://abdus012.github.io/csb-jqnzf1/static/js/2.e6fe7a19.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0fe4ff3.js",
+    "static/js/2.e6fe7a19.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.a0742587.chunk.js"
+  ]
+}
